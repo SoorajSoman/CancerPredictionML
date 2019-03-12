@@ -1,0 +1,2 @@
+id,diagnosis,radius_mean,texture_mean,smoothness_mean,compactness_mean,symmetry_mean,fractal_dimension_mean,radius_se,texture_se,smoothness_se,compactness_se,symmetry_se,fractal_dimension_se
+8510426,,13.54,14.36,0.09779,0.08129,0.1885,0.05766,0.2699,0.7886,0.008462,0.0146,0.0198,0.0023
